@@ -32,17 +32,16 @@
   <img width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" style="max-width: 100%;">
 </a>
   
-</div>
-<div>
+</div><div>
 
 ### Contact
 * [Facebook](https://www.facebook.com/profile.php?id=100080912705193)
 * [Instagram](https://www.instagram.com/5un_nuclear/?hl=en)
 
 ### Stack
-<a class="flex" href="https://github.com/CHETcica">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETcica&layout=compact&theme=radical" />
-</a><a class="flex" href="https://github.com/CHETcica">
-  <img  src="https://github-readme-stats.vercel.app/api?username=CHETcica&theme=radical" />
-</a>
+  <div href="https://github.com/CHETcica">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETcica&layout=compact&theme=radical" />
+  </div><div href="https://github.com/CHETcica">
+    <img  src="https://github-readme-stats.vercel.app/api?username=CHETcica&theme=radical" />
+  </div>
 </div>
