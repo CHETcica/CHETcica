@@ -1,8 +1,10 @@
 ###  my name chet i'm new bie frontend-developer👨‍💻 from Thailand 
 <a href="https://github.com/CHETcica">
-  <img width="50px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
+  <img width="100px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
 </a>
+
 ---
+
 ### Skills 💻
 <a href="https://github.com/CHETcica">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" style="max-width: 100%;">
