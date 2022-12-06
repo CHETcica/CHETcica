@@ -35,7 +35,7 @@
 </div>
 <div>
   
-  <img width="200px" src="https://my.spline.design/calculatorcopy-eab0079c4d4a529dac2ce8b3e2772f14/" style="max-width: 100%;">
+  <img width="200px" src="https://cdn.discordapp.com/attachments/662893950687772684/1048144273066967070/image.png" style="max-width: 100%;">
   
 </div>
 
