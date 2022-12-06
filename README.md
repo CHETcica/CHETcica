@@ -3,8 +3,13 @@
 
 ---
 ### Skills 💻
-* <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" style="max-width: 100%;"> REACT 
-*  REDUX 
+<a href="https://github.com/CHETcica">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" style="max-width: 100%;">
+</a>
+<a href="https://github.com/CHETcica">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/redux.png" style="max-width: 100%;">
+</a>
+
 *  JS 
 *  HTML 
 *  CSS 
