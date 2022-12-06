@@ -35,7 +35,6 @@
 ### Stack
 <a class="flex" href="https://github.com/CHETcica">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETcica&layout=compact&theme=radical" />
-</a>
-<a class="flex" href="https://github.com/CHETcica">
+</a><a class="flex" href="https://github.com/CHETcica">
   <img  src="https://github-readme-stats.vercel.app/api?username=CHETcica&theme=radical" />
 </a>
