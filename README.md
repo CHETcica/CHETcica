@@ -33,7 +33,7 @@
 </a>
   
 </div>
-
+<div>
 
 ### Contact
 * [Facebook](https://www.facebook.com/profile.php?id=100080912705193)
@@ -45,3 +45,4 @@
 </a><a class="flex" href="https://github.com/CHETcica">
   <img  src="https://github-readme-stats.vercel.app/api?username=CHETcica&theme=radical" />
 </a>
+</div>
