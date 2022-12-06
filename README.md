@@ -35,7 +35,7 @@
 </div>
 <div>
   
-  <img width="200px" src="https://cdn.discordapp.com/attachments/662893950687772684/1048144273066967070/image.png" style="max-width: 100%;">
+  <img position="absolute" width="200px" src="https://cdn.discordapp.com/attachments/662893950687772684/1048144273066967070/image.png" style="max-width: 100%;">
   
 </div>
 
