@@ -1,5 +1,5 @@
 #### Hi there 👋
-###  my name chet i'm frontend-developer👨‍💻 from Thailand
+###  my name chet i'm new bie frontend-developer👨‍💻 from Thailand
 
 ---
 ### Skills 💻
@@ -33,9 +33,9 @@
 * [Instagram](https://www.instagram.com/5un_nuclear/?hl=en)
 
 ### Stack
-<a href="https://github.com/CHETcica">
+<a class="flex" href="https://github.com/CHETcica">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETcica&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/CHETcica">
+<a class="flex" href="https://github.com/CHETcica">
   <img  src="https://github-readme-stats.vercel.app/api?username=CHETcica&theme=radical" />
 </a>
