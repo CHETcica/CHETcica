@@ -1,6 +1,7 @@
-#### Hi there 👋
-###  my name chet i'm new bie frontend-developer👨‍💻 from Thailand
-
+###  my name chet i'm new bie frontend-developer👨‍💻 from Thailand 
+<a href="https://github.com/CHETcica">
+  <img width="50px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
+</a>
 ---
 ### Skills 💻
 <a href="https://github.com/CHETcica">
