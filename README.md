@@ -1,4 +1,4 @@
-###  my name chet i'm new bie frontend-developer👨‍💻 from Thailand <img width="100px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
+###  my name chet i'm new bie frontend-developer👨‍💻 from Thailand <img width="32px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
 
 ---
 
@@ -26,7 +26,11 @@
 </a>
 <a href="https://github.com/CHETcica">
   <img width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" style="max-width: 100%;">
-</a><img width="100px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
+</a>
+<a href="https://github.com/CHETcica">
+  <img width="100px" src="https://raw.githubusercontent.com/CHETcica/valenFrontend/master/src/assets/robot.gif" style="max-width: 100%;">
+</a>
+
 
 ### Contact
 * [Facebook](https://www.facebook.com/profile.php?id=100080912705193)
