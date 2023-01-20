@@ -31,7 +31,9 @@
 <a href="https://github.com/CHETcica">
   <img width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" style="max-width: 100%;">
 </a>
-  
+<a href="https://github.com/CHETcica">
+  <img width="32px" src="https://cdn.discordapp.com/attachments/662893950687772684/1065857131540135946/nextjs-boilerplate-logo.png" style="max-width: 100%;">
+</a>  
 </div><div>
 
 ### Contact
